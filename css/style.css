@@ -1,8 +1,8 @@
 #logo{
-    width:80px;
-    height:40px ;
+    width:90px;
+    height:50px ;
     margin-top:20px;
-    margin-left: 170px;
+    margin-left: 215px;
     }
     .logo{
     float: right;
@@ -15,22 +15,29 @@
     margin-left: 170px;
     }
     #choco-pizza{
-    margin-left: 170px;
+    margin-left: 215px;
     }
     
     p{
     margin-left: 170px;
     font-family: Georgia, 'Times New Roman', Times, serif;
     }
+    main p{
+        margin-left: 230px;
+        width: 800px;
+
+    }
     ul{
     background-image:url(https://github.com/LTUC/amman-201d18/blob/main/class-10/choco-pizza-lab/lab-assets/list-bg.png?raw=true);
-    margin-left: 170px;
+    margin-left: 300px;
+    width: 600px;
+    
     }
     .li{
     margin-left:290px ;
     }
     #vanessa{
-        margin-left: 170px;
+        margin-left: 230px;
         float: left;
     }
     #log{
